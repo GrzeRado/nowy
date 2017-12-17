@@ -1,0 +1,42 @@
+var myVar = 5
+undefined
+myVar
+5
+ myVar + 10
+15
+myVar = myVar + 10
+15
+myVar
+15
+10-5
+5
+myVar = myVar -5
+10
+10*10
+100
+20/20
+1
+20/10
+2
+myVar
+10
+10 * 10
+100
+20/10
+2
+myVar = myVar / 2
+5
+5+5
+10
+5 + "hello
+VM250:1 Uncaught SyntaxError: Invalid or unexpected token
+5 + "hello"
+"5hello"
+100 + "hello"
+"100hello"
+"hello" + "david"
+"hellodavid"
+"hello" + " david"
+"hello david"
+5 * "hello"
+NaN

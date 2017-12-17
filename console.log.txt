@@ -1,0 +1,21 @@
+var myVar = "Shaun"
+undefined
+document/write(myVar)
+VM416:1 Uncaught ReferenceError: write is not defined
+    at <anonymous>:1:1
+(anonymous) @ VM416:1
+document.write(myVar)
+undefined
+console.log(myVar)
+VM441:1 Shaun
+undefined
+document.write(10)
+undefined
+console.log(50)
+VM468:1 50
+undefined
+console.log(20*5)
+VM469:1 100
+undefined
+document.write(20/5)
+undefined

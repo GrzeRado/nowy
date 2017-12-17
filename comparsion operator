@@ -1,0 +1,48 @@
+var x = 5
+undefined
+x > 5
+false
+x < 5
+false
+x > 4
+true
+x >=5
+true
+x >=4
+true
+x < 5
+false
+x <=5
+true
+x == 5
+true
+x === 5
+true
+x === "5"
+false
+var x = "5"
+undefined
+x = "5"
+"5"
+x
+"5"
+x == "5"
+true
+x === "5"
+true
+x !=4
+true
+x !=5
+false
+x ! == 5
+VM1426:1 Uncaught SyntaxError: Unexpected token !
+x !== 5
+true
+x = "5
+VM1429:1 Uncaught SyntaxError: Invalid or unexpected token
+x = "5"
+"5"
+x != 5
+false
+x !== 5
+true

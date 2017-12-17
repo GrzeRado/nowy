@@ -1,0 +1,38 @@
+var iLikeMeat = true
+undefined
+var iLikeMeat
+undefined
+iLikeMeat
+true
+iLikeMeat = "true"
+"true"
+iLikeMeat = false
+false
+7 >5
+true
+7 < 5
+false
+7 = 7
+VM175:1 Uncaught ReferenceError: Invalid left-hand side in assignment
+var num = 7
+undefined
+7 === 7
+true
+7 == 5
+false
+0
+0
+Boolean()
+false
+Boolean(7 > 5)
+true
+Boolean(6)
+true
+Boolean(-5)
+true
+Boolean(0)
+false
+Boolean("")
+false
+Boolean("hello")
+true
