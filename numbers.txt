@@ -1,0 +1,55 @@
+var a = 5;
+undefined
+a
+5
+var b = 5
+undefined
+console.log(a+b)
+VM87:1 10
+undefined
+var a = "5"
+undefined
+var b = 5
+undefined
+console.log(a+b)
+VM139:1 55
+undefined
+console.log(typeof(a+b)
+VM152:1 Uncaught SyntaxError: missing ) after argument list
+console.log(typeof(a+b))
+VM156:1 string
+undefined
+var a = 5
+undefined
+var b = 5
+undefined
+console.log(typeof(a+b))
+VM168:1 number
+undefined
+console.log(Match.round(7.5));
+
+VM170:1 Uncaught ReferenceError: Match is not defined
+    at <anonymous>:1:13
+(anonymous) @ VM170:1
+console.log(Math.round(7.5));
+
+VM173:1 8
+undefined
+console.log(Math.(7.5));
+
+VM175:1 Uncaught SyntaxError: Unexpected token (
+console.log(Math.floor(7.5));
+
+VM186:1 7
+undefined
+console.log(Math.ceil(7.5));
+
+VM188:1 8
+undefined
+console.log(Math.max(7, 10, 15, 2));
+
+VM190:1 15
+undefined
+console.log(Math.PI);
+VM192:1 3.141592653589793
+undefined
