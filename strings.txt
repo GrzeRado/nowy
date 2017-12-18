@@ -1,0 +1,85 @@
+var myString = 'I\'m a "fun string';
+
+undefined
+console.log(myString);
+
+VM184:1 I'm a "fun string
+undefined
+console.log(myString.length);
+
+VM186:1 17
+undefined
+console.log(myString.toUpperCase());
+
+VM188:1 I'M A "FUN STRING
+undefined
+console.log(myString.toLocaleLowerCase());
+
+VM190:1 i'm a "fun string
+undefined
+console.log(myString.indexOf("string"));
+
+VM192:1 11
+undefined
+console.log(myString.indexOf("ninja"));
+
+VM193:1 -1
+undefined
+var string1 = "abc";
+
+undefined
+var string2 = "bcd";
+
+undefined
+console.log(string1 === string2);
+
+VM199:1 false
+undefined
+var string1 = "abc";
+
+undefined
+var string1 = "ABC";
+
+undefined
+console.log(string1 === string2);
+
+VM202:1 false
+undefined
+console.log(string1.toLowerCase() === string2.toLocaleLowerCase());
+
+VM204:1 false
+undefined
+console.log(string1.toLowerCase() === string2.toLowerCase());
+
+VM217:1 false
+undefined
+var string1 = "abc";
+
+undefined
+var string2 = "ABC";
+
+undefined
+console.log(string1.toLowerCase() === string2.toLowerCase());
+
+VM220:1 true
+undefined
+var string1 = "abc";
+
+undefined
+var string2 = "bcd";
+
+undefined
+console.log(string1 < string2);
+
+VM225:1 true
+undefined
+var string1 = "abc";
+
+undefined
+var string2 = "Bcd";
+
+undefined
+console.log(string1 < string2);
+
+VM229:1 false
+undefined
