@@ -1,11 +1,11 @@
 //var myCar2 = {
 
-maxSpeed: 50,
-driver: "Net Ninja",
-drive: function(speed, time) {
-        console.log(speed * time);
-    },
-    test: function(){
+//maxSpeed: 50,
+//driver: "Net Ninja",
+//drive: function(speed, time) {
+  //      console.log(speed * time);
+   // },
+    //test: function(){
 //    console.log(this);
   //  }
 //};
