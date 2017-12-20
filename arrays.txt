@@ -1,41 +1,55 @@
-var myArray = []
+VM10726:1 Uncaught ReferenceError: newCar is not defined
+    at <anonymous>:1:13
+(anonymous) @ VM10726:1
+myCar.drive(35)
+VM10810:1 Uncaught TypeError: Cannot read property 'drive' of undefined
+    at <anonymous>:1:7
+(anonymous) @ VM10810:1
+var myString = sew String:;
+VM10836:1 Uncaught SyntaxError: Unexpected identifier
+var myString = sew String()
+VM10842:1 Uncaught SyntaxError: Unexpected identifier
+var myString = new String()
 undefined
-myArray[0] = 25
-25
-myArray[0]
-25
-myArray[1] = 35
-35
-myArray[2] = true
-true
-myArray[3] = "hello'
-VM10276:1 Uncaught SyntaxError: Invalid or unexpected token
-myArray[3] = "hello"
+desktop_polymer.js:920 POST https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 net::ERR_EMPTY_RESPONSE
+Nh @ desktop_polymer.js:920
+Lh @ desktop_polymer.js:907
+Sh @ desktop_polymer.js:918
+vi @ desktop_polymer.js:962
+ti @ desktop_polymer.js:937
+setTimeout (async)
+qh @ desktop_polymer.js:882
+ui @ desktop_polymer.js:940
+ri @ desktop_polymer.js:935
+Ni @ desktop_polymer.js:954
+ij @ desktop_polymer.js:972
+(anonymous) @ desktop_polymer.js:512
+var myString = "hello"
+undefined
+myString
 "hello"
-myArray
-(4) [25, 35, true, "hello"]
-console.log(myArray)
-VM10332:1 (4) [25, 35, true, "hello"]
+myString.length
+5
+desktop_polymer.js:920 POST https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 net::ERR_EMPTY_RESPONSE
+Nh @ desktop_polymer.js:920
+Lh @ desktop_polymer.js:907
+Sh @ desktop_polymer.js:918
+vi @ desktop_polymer.js:962
+ti @ desktop_polymer.js:937
+setTimeout (async)
+qh @ desktop_polymer.js:882
+ui @ desktop_polymer.js:940
+ri @ desktop_polymer.js:935
+Ni @ desktop_polymer.js:954
+ij @ desktop_polymer.js:972
+(anonymous) @ desktop_polymer.js:512
+myString.toLowerCase ()
+"hello"
+vay myString2 = hi there"
+VM11061:1 Uncaught SyntaxError: Unexpected identifier
+vay myString2 = "hi there"
+VM11062:1 Uncaught SyntaxError: Unexpected identifier
+vay myString2 = "hi there"
+VM11064:1 Uncaught SyntaxError: Unexpected identifier
+var myString2 = "hi there"
 undefined
-myArray[2] = false
-false
-myArray
-(4) [25, 35, false, "hello"]
-var myArray2 = [10, 20, "hi", false]
-undefined
-myArray2
-(4) [10, 20, "hi", false]
-var myArray3 = new Array()
-undefined
-var myArray4 = new Array(5)
-undefined
-myArray2.le
-undefined
-myArray2.length
-4
-myArray2.sort()
-(4) [10, 20, false, "hi"]0: "hi"1: false2: 203: 10length: 4__proto__: Array(0)
-myArray2.reverse
-ƒ reverse() { [native code] }
-myArray2.reverse()
-(4) ["hi", false, 20, 10]
