@@ -1,0 +1,41 @@
+var myArray = []
+undefined
+myArray[0] = 25
+25
+myArray[0]
+25
+myArray[1] = 35
+35
+myArray[2] = true
+true
+myArray[3] = "hello'
+VM10276:1 Uncaught SyntaxError: Invalid or unexpected token
+myArray[3] = "hello"
+"hello"
+myArray
+(4) [25, 35, true, "hello"]
+console.log(myArray)
+VM10332:1 (4) [25, 35, true, "hello"]
+undefined
+myArray[2] = false
+false
+myArray
+(4) [25, 35, false, "hello"]
+var myArray2 = [10, 20, "hi", false]
+undefined
+myArray2
+(4) [10, 20, "hi", false]
+var myArray3 = new Array()
+undefined
+var myArray4 = new Array(5)
+undefined
+myArray2.le
+undefined
+myArray2.length
+4
+myArray2.sort()
+(4) [10, 20, false, "hi"]0: "hi"1: false2: 203: 10length: 4__proto__: Array(0)
+myArray2.reverse
+ƒ reverse() { [native code] }
+myArray2.reverse()
+(4) ["hi", false, 20, 10]
