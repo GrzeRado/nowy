@@ -1,0 +1,55 @@
+VM10726:1 Uncaught ReferenceError: newCar is not defined
+    at <anonymous>:1:13
+(anonymous) @ VM10726:1
+myCar.drive(35)
+VM10810:1 Uncaught TypeError: Cannot read property 'drive' of undefined
+    at <anonymous>:1:7
+(anonymous) @ VM10810:1
+var myString = sew String:;
+VM10836:1 Uncaught SyntaxError: Unexpected identifier
+var myString = sew String()
+VM10842:1 Uncaught SyntaxError: Unexpected identifier
+var myString = new String()
+undefined
+desktop_polymer.js:920 POST https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 net::ERR_EMPTY_RESPONSE
+Nh @ desktop_polymer.js:920
+Lh @ desktop_polymer.js:907
+Sh @ desktop_polymer.js:918
+vi @ desktop_polymer.js:962
+ti @ desktop_polymer.js:937
+setTimeout (async)
+qh @ desktop_polymer.js:882
+ui @ desktop_polymer.js:940
+ri @ desktop_polymer.js:935
+Ni @ desktop_polymer.js:954
+ij @ desktop_polymer.js:972
+(anonymous) @ desktop_polymer.js:512
+var myString = "hello"
+undefined
+myString
+"hello"
+myString.length
+5
+desktop_polymer.js:920 POST https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 net::ERR_EMPTY_RESPONSE
+Nh @ desktop_polymer.js:920
+Lh @ desktop_polymer.js:907
+Sh @ desktop_polymer.js:918
+vi @ desktop_polymer.js:962
+ti @ desktop_polymer.js:937
+setTimeout (async)
+qh @ desktop_polymer.js:882
+ui @ desktop_polymer.js:940
+ri @ desktop_polymer.js:935
+Ni @ desktop_polymer.js:954
+ij @ desktop_polymer.js:972
+(anonymous) @ desktop_polymer.js:512
+myString.toLowerCase ()
+"hello"
+vay myString2 = hi there"
+VM11061:1 Uncaught SyntaxError: Unexpected identifier
+vay myString2 = "hi there"
+VM11062:1 Uncaught SyntaxError: Unexpected identifier
+vay myString2 = "hi there"
+VM11064:1 Uncaught SyntaxError: Unexpected identifier
+var myString2 = "hi there"
+undefined
